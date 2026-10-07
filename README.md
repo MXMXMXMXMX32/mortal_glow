@@ -7,7 +7,7 @@
 
 ## 🎮 在线试玩
 👉 **https://MXMXMXMXMX32.github.io/mortal_glow/**
-
+📱 **安卓手机版下载**：[点击下载 APK]([https://github.com/MXMXMXMXMX32/mortal_glow/releases/tag/1.0])
 ## ✨ 功能亮点
 - 🔒 绝对隐私：纯前端，数据保存在本地。
 - 🕊️ 不惩罚断更：随时暂离，随时归来。
